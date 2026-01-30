@@ -1,0 +1,26 @@
+Put your answers to the debugging questions from Problem One in this file.
+
+Q1: 5 , 'A' , 'B' , 'C'
+
+
+Q2: makeTheMagicHappen  TowersOfHanoiGUI.cpp
+
+
+
+Q3: 31
+
+
+
+Q4: 15
+
+
+
+Q5: "ab"
+
+
+
+Q6: chosen+(=)
+
+
+
+Q7:
